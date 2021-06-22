@@ -1,7 +1,7 @@
 # Tahapan penggunaan
 
 ## Aplikasi Web
-1. buka xampp
+1. buka xampp dan jalankan Apache dan MySQL
 2. taruh folder Source code kedalam C:/Xampp/htdocs
 3. buka menggunakan web browser http://localhost/source%20code/ atau sesuaikan dengan direktori anda
 4. selesai
